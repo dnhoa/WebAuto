@@ -18,6 +18,7 @@ namespace BaseWebUIAutomation.Support
 
         public Hooks(IObjectContainer objectContainer)
         {
+            
             _objectContainer = objectContainer;
         }
 
